@@ -1,0 +1,58 @@
+body{
+	margin:0px;
+}
+.section1{
+	max-height: 300px;
+	background-color: #ffffff;
+}
+.LOGO{
+	max-width: 320px;
+	margin: 0 auto;
+	text-align: center;
+}
+.LOGO img{
+	width: 50px;
+	height: 50px;
+	float: left;
+	padding:0 ;
+}
+.btitle h1{
+	font-size: 30px;
+	margin-bottom: 5px;	
+}
+.btitle p{
+	font-size: 12px;
+	margin-top:5px;
+}
+.ftitle{
+	max-width: 370px;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+}
+.ftitle h2{
+	float: left;
+	font-size: 20px;
+	color: rgb(255,105,107);
+	margin-top: 10px;
+}
+.ftitle span{
+	float: left;
+	font-size: 40px;
+	color: darkgray;
+}
+.ftitle p{
+	font-size: 10px;
+	margin: 20px 0 5px 0;
+	color: gray;
+}
+.ftitle h3{
+	font-size: 13px;
+	margin-top: 5px;
+	font-weight: normal;
+}
+.section2{
+	background-color: rgb(255,105,107);;
+	max-height: 600px;
+	width: auto;
+}
